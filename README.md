@@ -1,4 +1,4 @@
-# Your Project Name
+# Portfolio website
 
 This repository contains the source code for the personal website or portfolio. The project is structured into different sections, including Resume, Portfolio, Blog, etc.
 
