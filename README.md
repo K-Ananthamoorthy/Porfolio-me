@@ -27,4 +27,8 @@ The blog section features various blog posts related to design. Each post includ
 
    ```bash
    https://github.com/K-Ananthamoorthy/Porfolio-me.git
+
+
+Netlify->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2aa31ee2-6612-448d-b3d2-ab9631bafc3d/deploy-status)](https://app.netlify.com/sites/ananthamoorthi-me/deploys)
    
