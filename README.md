@@ -26,4 +26,5 @@ The blog section features various blog posts related to design. Each post includ
 1. Clone the repository:
 
    ```bash
+   https://github.com/K-Ananthamoorthy/Porfolio-me.git
    
