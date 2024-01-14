@@ -1,0 +1,29 @@
+# Your Project Name
+
+This repository contains the source code for the personal website or portfolio. The project is structured into different sections, including Resume, Portfolio, Blog, etc.
+
+## Table of Contents
+
+- [Resume](#resume)
+- [Portfolio](#portfolio)
+- [Blog](#blog)
+- [Contact](#contact)
+
+## Resume
+
+The resume section provides information about the educational background, work experience, skills, and other relevant details. It also includes a brief about the person.
+
+## Portfolio
+
+The portfolio section showcases various projects in web design, web development, and applications. You can filter projects based on categories such as web design, applications, and web development.
+
+## Blog
+
+The blog section features various blog posts related to design. Each post includes a banner image, category, publication date, title, and a brief description.
+
+## How to Use
+
+1. Clone the repository:
+
+   ```bash
+   
